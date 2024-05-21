@@ -1,0 +1,7 @@
+Run the tests using
+
+mvn test -PTemp
+
+Allure Report Generation
+
+allure serve target/allure-results
